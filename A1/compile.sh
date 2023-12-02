@@ -1,0 +1,1 @@
+g++ -std=c++17 -O3 main.cpp FP_Tree_handler.cpp -o run 
